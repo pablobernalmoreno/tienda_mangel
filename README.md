@@ -14,3 +14,8 @@ Estudiar las siguientes estructuras de datos:
 5. Skip list
 6. Hash table
 7. Binary search tree
+
+## Reto 2
+1. Añadir un placeholder (imagen, gif, texto) que se muestre mientras carga la data
+2. Cambiar todos los archivos a que sean typescript (.ts o .tsx) usando tipos para cada dato que se use: https://react.dev/learn/typescript
+3. Usar rutas para tener una ruta Home y una ruta por cada carta (en la página de cada carta doy libertad creativa pero la idea es que un usuario pueda ver detalles de la carta por si la quiere comprar): https://reactrouter.com/en/main/start/tutorial
